@@ -24,3 +24,11 @@ The tool automatically applies small changes (mutations) to the source code and 
 
 ---
 
+## Collaborators
+
+- Reyhaneh Khoramian
+- Shaghayegh Shahbazi
+- Maryam Safavi
+
+---
+
